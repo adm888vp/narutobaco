@@ -1,0 +1,15 @@
+C:\Users\tt\Documents\GitHub\narutobaco\vd\vd\bin\Debug\net6.0\vd.exe
+C:\Users\tt\Documents\GitHub\narutobaco\vd\vd\bin\Debug\net6.0\vd.deps.json
+C:\Users\tt\Documents\GitHub\narutobaco\vd\vd\bin\Debug\net6.0\vd.runtimeconfig.json
+C:\Users\tt\Documents\GitHub\narutobaco\vd\vd\bin\Debug\net6.0\vd.dll
+C:\Users\tt\Documents\GitHub\narutobaco\vd\vd\bin\Debug\net6.0\vd.pdb
+C:\Users\tt\Documents\GitHub\narutobaco\vd\vd\obj\Debug\net6.0\vd.csproj.AssemblyReference.cache
+C:\Users\tt\Documents\GitHub\narutobaco\vd\vd\obj\Debug\net6.0\vd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tt\Documents\GitHub\narutobaco\vd\vd\obj\Debug\net6.0\vd.AssemblyInfoInputs.cache
+C:\Users\tt\Documents\GitHub\narutobaco\vd\vd\obj\Debug\net6.0\vd.AssemblyInfo.cs
+C:\Users\tt\Documents\GitHub\narutobaco\vd\vd\obj\Debug\net6.0\vd.csproj.CoreCompileInputs.cache
+C:\Users\tt\Documents\GitHub\narutobaco\vd\vd\obj\Debug\net6.0\vd.dll
+C:\Users\tt\Documents\GitHub\narutobaco\vd\vd\obj\Debug\net6.0\refint\vd.dll
+C:\Users\tt\Documents\GitHub\narutobaco\vd\vd\obj\Debug\net6.0\vd.pdb
+C:\Users\tt\Documents\GitHub\narutobaco\vd\vd\obj\Debug\net6.0\vd.genruntimeconfig.cache
+C:\Users\tt\Documents\GitHub\narutobaco\vd\vd\obj\Debug\net6.0\ref\vd.dll
